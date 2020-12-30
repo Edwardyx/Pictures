@@ -1,4 +1,4 @@
-[toc]
+[TOC]
 
 # Hello-World
 a test repository
